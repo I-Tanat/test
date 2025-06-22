@@ -2,14 +2,4 @@
 
 456
 789.
-Add Line >> file1.txt
-cat file1.txt
-echo Add Line >> file1.txt
-cat file1.txt
-й
-q
-
-
-echo Add Line
-Add Line
 Add Line
